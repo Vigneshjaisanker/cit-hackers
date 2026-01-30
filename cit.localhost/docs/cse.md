@@ -96,5 +96,5 @@
 ### Notes
 - Professional Electives (PEC) and Open Electives (OE) are chosen based on specialization.
 - NCC courses are optional and not counted towards CGPA.
-- Curriculum follows **Regulation 2024 (R24)**.
+- Curriculum follows ****Regulation 2024 (R24)****.
 
